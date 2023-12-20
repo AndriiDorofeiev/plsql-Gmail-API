@@ -1,5 +1,7 @@
 # plsql-Gmail-API
-This project is an example of Google Gmail API.
+This project is an example of Google Gmail API. 
+
+![Oracle version](https://img.shields.io/badge/Oracle%20version-12.0.4-blue+)
 
 To get authorization code in google past in browser following link
 ```
